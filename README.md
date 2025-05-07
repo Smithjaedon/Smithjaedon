@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Smithjaedon
-- 👀 I’m interested in entrepreneurship, computer science and gaming
+- 👀 I’m interested in computer science and gaming
 - 🌱 I’m currently learning web development
 - 📫 How to reach me at ...
 
