@@ -3,7 +3,7 @@
 I'm a computer science graduate based in Toronto, building backend systems with Python, Go, and FastAPI. I enjoy designing APIs, working with real-time systems, and understanding how things work under the hood.
 
 🎓 CS graduate · Looking for a junior backend engineering role  
-🌱 Always learning — currently digging into distributed systems, Go internals, and system design
+🌱 Always learning — currently focused on backend architecture, distributed systems, and writing better Go
 
 ---
 
