@@ -1,20 +1,20 @@
-# 👋 Hi, I'm Jaedon
+# Hi, I'm Jaedon
 
-I'm a computer science graduate based in Toronto, working as a software engineer across Python, Go, and TypeScript. Backend-leaning — realtime systems, infrastructure, dev tools, and distributed systems — with growing interest in AI/ML platform and data-intensive work. I like understanding how things work under the hood.
+I'm a CS graduate in Toronto, backend-leaning. Most of my work is Python with FastAPI, Postgres, and Redis, with some Go for realtime work. I focus on systems I can explain under load: auth, caching, queues, and clean migrations.
 
-🎓 CS graduate · Looking for junior software engineering roles — backend, platform/DevOps, AI/ML infra
-🌱 Currently focused on distributed systems, Go, and AI-integrated systems
+CS graduate, looking for junior backend, platform, or AI infra roles.
+Currently shipping Python backends and studying system design and data-intensive systems.
 
 ---
 
-## 📫 Connect
+## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaedon-andres-smith/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jaedon.andres@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
