@@ -1,6 +1,6 @@
 # Hi, I'm Jaedon
 
-I'm a CS graduate in Toronto, backend-leaning. Most of my work is Python with FastAPI, Postgres, and Redis, with some Go for realtime work. I focus on systems I can explain under load: auth, caching, queues, and clean migrations.
+I'm a CS graduate in Toronto, backend-leaning. Most of my work is Python with FastAPI, Postgres, and Redis, with some Go for realtime work. I focus on systems.
 
 CS graduate, looking for junior backend, platform, or AI infra roles.
 Currently shipping Python backends and studying system design and data-intensive systems.
